@@ -1,9 +1,9 @@
-## Node and Express Tutorial
+## Node and Express Practice
 
 #### Contents
 
-1. Node Tutorial
-2. Express Tutorial
+1. Node Practice
+2. Express Practice
 3. Task Manager
 4. Store API
 5. JWT Basics
